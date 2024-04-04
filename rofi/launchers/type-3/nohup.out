@@ -1,0 +1,409 @@
+[2024-03-24 13:41:47.434] [info] Using configuration file /home/prtyksh/.config/waybar/config-hypr
+[2024-03-24 13:41:47.440] [info] Using CSS file /home/prtyksh/.config/waybar/style.css
+[2024-03-24 13:41:47.453] [info] Hyprland IPC starting
+[2024-03-24 13:41:47.458] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 13:41:47.458] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 13:41:47.555] [info] Bar configured (width: 1910, height: 50) for output: eDP-1
+[2024-03-24 13:42:00.721] [info] Quitting.
+[2024-03-24 13:42:09.089] [info] Using configuration file /home/prtyksh/.config/waybar/config-hypr
+[2024-03-24 13:42:09.095] [info] Using CSS file /home/prtyksh/.config/waybar/style.css
+[2024-03-24 13:42:09.108] [info] Hyprland IPC starting
+[2024-03-24 13:42:09.111] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 13:42:09.111] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 13:42:09.207] [info] Bar configured (width: 1910, height: 50) for output: eDP-1
+
+(process:185970): Rofi-WARNING **: 14:11:19.350: ABI version of plugin: 'emoji.so' does not match: 00000006 expecting: 00000007
+CSS reload success: true
+CSS reload success: true
+CSS reload success: true
+
+(process:195139): Rofi-WARNING **: 14:25:57.290: ABI version of plugin: 'emoji.so' does not match: 00000006 expecting: 00000007
+ping: wttr.in: Temporary failure in name resolution
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 66000 (55%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 72000 (60%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 78000 (65%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 84000 (70%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 90000 (75%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 96000 (80%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 96000 (80%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 102000 (85%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 108000 (90%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 114000 (95%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 114000 (95%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+ping: wttr.in: Temporary failure in name resolution
+ping: wttr.in: Temporary failure in name resolution
+ping: wttr.in: Temporary failure in name resolution
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120000 (100%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 114000 (95%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 108000 (90%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 102000 (85%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 96000 (80%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 90000 (75%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 84000 (70%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 78000 (65%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 72000 (60%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 66000 (55%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 60000 (50%)
+	Max brightness: 120000
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 54000 (45%)
+	Max brightness: 120000
+
