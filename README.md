@@ -1,9 +1,13 @@
 ﻿# *blue monday dots* 
 ![Banner](https://i.imgur.com/EQ5BYBi.png)
 ## *Showcase*: 
-![enter image description here](https://i.imgur.com/n8R11hy.gif)![enter image description here](https://i.imgur.com/6MPGQ1O.gif)![enter image description here](https://i.imgur.com/RIxqIn8.png)
+![enter image description here](https://i.imgur.com/n8R11hy.gif)
+![enter image description here](https://i.imgur.com/6MPGQ1O.gif)
+![enter image description here](https://i.imgur.com/RIxqIn8.png)
 ![enter image description here](https://i.imgur.com/haOXh23.png)
-![enter image description here](https://i.imgur.com/NfqSiEa.png)![enter image description here](https://i.imgur.com/X9aEOTz.gif)![enter image description here](https://i.imgur.com/lNaZzR6.gif)
+![enter image description here](https://i.imgur.com/NfqSiEa.png)
+![enter image description here](https://i.imgur.com/X9aEOTz.gif)
+![enter image description here](https://i.imgur.com/lNaZzR6.gif)
 
 ##### *" Blue Monday" ? *
 Yes, I based this off the song "Blue Monday" by New Order. It has always been a good song to me, I have always enjoyed listening to it but at the time of making this rice, something is happening in my life that directly resonates with the lyrics of the song.....
