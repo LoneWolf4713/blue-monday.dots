@@ -37,6 +37,11 @@ Thank you!
  - Spotify Extensions: Toggle Lyrics Plus and Beautiful Lyrics
  - ColorScheme: Just Pywal showing it's magic
 
+#### What does theme changer do?
+1. It displays your wallpaper by hosting a python webserver in you wallpaper directory and generating a gallery there.
+2. On clicking any image, theme will change, pywal does it's magic and it will form a colorscheme
+3. which will then be set the background, firefox theme, cava theme and a GTK Theme and waybar theme.
+   
 ## Some Notes For Setting This Up:
 1. Rofi Menu is run by ~/.config/rofi/launchers/type-3/launcher.sh
 2. Rofi PowerMenu is run by ~/.config/rofi/applets/bin/powermenu.sh
